@@ -27,7 +27,7 @@ youtube-dl
 requests 
   
  #---imdb---# 
- cinemagoer==2023.5.1 
+ cinemagoer==2023.10.22
   
  #---others----# 
  opencv-python-headless==4.7.0.68 
