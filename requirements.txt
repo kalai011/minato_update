@@ -56,6 +56,6 @@ pyshorteners
 pyromod
 colorama
 dnspython==2.3.0
-
+PYTHON_VERSION
 
   
